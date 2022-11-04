@@ -1,5 +1,5 @@
 # lab6web
-## Hidayat Ttulloh
+## Hidayat Tulloh
 ## 312110110
 ## TI.21.B.1
 
