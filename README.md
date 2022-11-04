@@ -43,15 +43,15 @@ Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 		</div>
 ```
 4. Membuat Navbar dengan framework yang ada pada pada bootstrap, Navbar ini berfungsi untuk memberi layanan menuju halaman lain (Navigasi) untuk lebih jelasnya simak pada gambar dibawah ini
-![img](SS/s1.png)
+![img](SS/ss1.png)
 5. membuat hero panel disini saya menggunakan class jumbroton warna background secondary dan opacity sebesar 25 
-![img](SS/s2.png)
+![img](SS/ss2.png)
 6. Menambah element lain pada content seperti gambar dan lain sebagainya, pada bootstrap kita bisa menggunakan cards, disini saya akan menggunakan col untuk membagi gambar per bagian masing-masing agar hasilnya lebih rapih. Dan membuat gambar menjadi bulat dengan menggunakan class rounded-circle
-![img](SS/s3.png)
+![img](SS/ss3.png)
 7. Menambahkan widget link pada sebelah kanan card 1
-![img](SS/s5.png)
+![img](SS/ss5.png)
 8. Menambah element lain atau card 2 seperti pada gambar dibawah ini
-![img](SS/s4.png)
+![img](SS/ss4.png)
 9. Menambaahkn footer
-![img](SS/s6.png)
+![img](SS/ss6.png)
 # TERIMAKASI
