@@ -48,10 +48,10 @@ Buatlah layout web sederhana menggunakan css framework (Twitter Bootsrtap).
 ![img](SS/ss2.png)
 6. Menambah element lain pada content seperti gambar dan lain sebagainya, pada bootstrap kita bisa menggunakan cards, disini saya akan menggunakan col untuk membagi gambar per bagian masing-masing agar hasilnya lebih rapih. Dan membuat gambar menjadi bulat dengan menggunakan class rounded-circle
 ![img](SS/ss3.png)
-7. Menambahkan widget link pada sebelah kanan card 1
-![img](SS/ss5.png)
-8. Menambah element lain atau card 2 seperti pada gambar dibawah ini
+7. Menambah element lain atau card 2 seperti pada gambar dibawah ini
 ![img](SS/ss4.png)
+8. Menambahkan widget link pada sebelah kanan card 1
+![img](SS/ss5.png)
 9. Menambaahkn footer
 ![img](SS/ss6.png)
 # TERIMAKASI
